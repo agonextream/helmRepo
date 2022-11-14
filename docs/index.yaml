@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  agonex:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-13T19:22:10.466232-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 0570393567cc0100396504212d9cf4a736de3af241c4056d9f99192514783e75
+    name: agonex
+    type: application
+    urls:
+    - https://agonextream.github.io/helmRepo/agonex-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-11-13T19:22:10.462528-05:00"
